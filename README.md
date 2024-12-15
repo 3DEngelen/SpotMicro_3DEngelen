@@ -11,7 +11,8 @@ A small quadruped robot, inspired by boston dynamic [Spot](https://bostondynamic
 Welcome to my Quadruped Robot project!
 
 It is based on the Spot Micro ESP32 design remix from Michael Kubina, the original design was done by Deok-yeon Kim (KDY0523). (Links can be found in the References)
-My version is different in the sense that I am using Heat inserts instead of nuts and bolts, as a controller I am using the M5Stack Core2 and M5Stack Servo2 module.
+My version is different in the sense that I am using Heat inserts instead of nuts and bolts for easier assembly and disassembly, as a controller I am using the M5Stack Core2 and M5Stack Servo2 module
+The model is designed in Fusion360 and is as complete as possible, including all parts like heat inserts, screws, and electronics.
 The controller Software is in progress by will based on the work done by Rune Harlyk Spot Micro ESP32-Leika and Karl-Mills Open Cat ESP32.
 
 ---
