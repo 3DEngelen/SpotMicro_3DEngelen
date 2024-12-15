@@ -26,6 +26,8 @@ Here are some resources and inspirations for this project:
 - [Spot Micro - Leika by Rune Harlyk](https://github.com/runeharlyk/SpotMicroESP32-Leika)
 - [OpenCat by Karl-Mills](https://github.com/karl-mills/OpenCatEsp32)
 
+Many thanks to the authors for sharing their work, and to the community for the support!
+
 ---
 
 ## [3D Prints](docs/3D_Prints.md)
